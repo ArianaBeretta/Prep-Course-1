@@ -1,0 +1,29 @@
+
+/*fondo*//*no funciono imagen local, probar nuevamente*/
+body {
+ /*fondo*/ background:url("https://www.xtrafondos.com/descargar.php?id=2841&resolucion=2560x1600") no-repeat;
+ /*fondo*/  background-size: 100%, auto, 100%;
+  
+ }
+  
+ 
+div { 
+    height: 700px;/*scroll*/
+
+}
+
+
+div {
+    display: flex; /*centrar html*/
+    justify-content: center; /*centrar html*/
+}
+
+#tema {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 50%;
+    margin-top: -50px;
+
+}
+
